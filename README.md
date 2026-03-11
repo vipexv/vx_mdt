@@ -34,7 +34,7 @@ This repository is used for **version tracking** and **bug reports / feature req
 - **Charges & Sentencing** — multi-charge application with severity tiers, fines, and jail time
 - **Evidence** — stash tracking, property linking, chain of custody
 - **Vehicles & Weapons** — registration, status flags (stolen/seized/impounded), plate and serial lookups
-- **Templates** — pre-built report forms with markdown support for one-click insertion
+- **Templates** — pre-build your own report forms with markdown support for one-click insertion
 - **Dashboard** — live stats, bulletin board, active units, recent activity
 - **Rich Text Editor** — TipTap-based editor with @mentions and formatting
 - **Cross-Department Sharing** — share records as viewer or collaborator across departments
