@@ -50,7 +50,6 @@ This repository is used for **version tracking** and **bug reports / feature req
 | QBX (QBox) | Supported |
 | QB-Core    | Supported |
 | ESX        | Supported |
-| ox_core    | Planned   |
 
 Integrates with ox_inventory, ox_lib, pma-voice, and [many more](https://docs.vipex.dev).
 
@@ -67,7 +66,7 @@ Integrates with ox_inventory, ox_lib, pma-voice, and [many more](https://docs.vi
 Use the [Issues](../../issues) tab to report bugs or request features. Please include:
 
 - **Server framework** (QBX, QB-Core, ESX)
-- **Resource version** (check with `ensure vx_mdt`)
+- **Resource version**
 - **Steps to reproduce** the issue
 - **Screenshots or logs** if applicable
 
