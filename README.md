@@ -13,7 +13,7 @@ A modern, performance-focused mobile data terminal for FiveM.
 [![Lua](https://img.shields.io/badge/Lua-5.4-purple)]()
 [![Svelte](https://img.shields.io/badge/Svelte-5-ff3e00)]()
 
-[Purchase](https://store.vipex.dev/package/mdt) | [Documentation](https://docs.vipex.dev) | [Discord](https://discord.gg/TX5qWWk7Wq)
+[Purchase](https://store.vipex.dev/package/mdt) | [Documentation](https://docs.vipex.dev) | [Discord](https://discord.gg/TX5qWWk7Wq) | [Preview](https://youtu.be/-OXYAdZEC-Q)
 
 </div>
 
@@ -75,3 +75,4 @@ Use the [Issues](../../issues) tab to report bugs or request features. Please in
 - [Purchase](https://store.vipex.dev/package/mdt)
 - [Documentation](https://docs.vipex.dev)
 - [Discord](https://discord.gg/TX5qWWk7Wq)
+- [Preview](https://youtu.be/-OXYAdZEC-Q)
